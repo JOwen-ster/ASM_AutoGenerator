@@ -23,7 +23,7 @@ git clone git@github.com:JOwen-ster/Discord.py-Bot-TEMPLATE.git
 gh repo clone JOwen-ster/Discord.py-Bot-TEMPLATE
 ```
 
-Change to this repositories directory
+Change to this repository's directory
 `cd ASM_AutoGenerator/`
 
 Move the script to your assembly file's directory
@@ -31,4 +31,31 @@ Move the script to your assembly file's directory
 
 Change directory to where your assembly file is
 `cd PATH/TO/YOUR/ASSEMBLY/DIRECTORY`
+
+Set execution permissions for `builder.sh`
+```
+sudo chmod 700 builder.sh
+```
+
+## Usage
+```console
+bash builder.sh <FILENAME> <RUN> <DEBUG>
+
+REQUIRED:
+       <FILENAME>
+
+OPTIONS:
+       <RUN>: y OR n
+       <DEBUG>: y OR n
+------------------------------"
+```
+
+Run the script
+```
+bash builder.sh example y n
+```
+OR
+```
+bash builder.sh example
+```
 
