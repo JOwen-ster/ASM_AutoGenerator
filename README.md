@@ -34,7 +34,7 @@ Change directory to where your assembly file is
 
 Set execution permissions for `builder.sh`
 ```
-sudo chmod 700 builder.sh
+chmod 700 builder.sh
 ```
 
 ## Usage
