@@ -47,7 +47,7 @@ REQUIRED:
 OPTIONS:
        <RUN>: y OR n
        <DEBUG>: y OR n
-------------------------------"
+------------------------------
 ```
 
 Run the script
