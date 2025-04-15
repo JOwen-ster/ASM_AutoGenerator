@@ -20,7 +20,7 @@ git clone git@github.com:JOwen-ster/ASM_AutoGenerator.git
 
 - [X] **GH CLI**
 ```
-gh repo clone JOwen-ster/JOwen-ster/ASM_AutoGenerator
+gh repo clone JOwen-ster/ASM_AutoGenerator
 ```
 
 Change to this repository's directory
