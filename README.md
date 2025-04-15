@@ -10,17 +10,17 @@ Used by [Joshua Ku](https://www.linkedin.com/in/joshua-ku-35a7b453) at Cal. Stat
 **Clone This Repository**
 - [X] **HTTPS**
 ```
-git clone https://github.com/JOwen-ster/Discord.py-Bot-TEMPLATE.git
+git clone https://github.com/JOwen-ster/ASM_AutoGenerator.git
 ```
 
 - [X] **SSH**
 ```
-git clone git@github.com:JOwen-ster/Discord.py-Bot-TEMPLATE.git
+git clone git@github.com:JOwen-ster/ASM_AutoGenerator.git
 ```
 
 - [X] **GH CLI**
 ```
-gh repo clone JOwen-ster/Discord.py-Bot-TEMPLATE
+gh repo clone JOwen-ster/JOwen-ster/ASM_AutoGenerator
 ```
 
 Change to this repository's directory
