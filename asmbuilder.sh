@@ -7,7 +7,7 @@
 # Make sure you are inside that directory
 # Run the following command in your terminal (dont include the #)
 
-#chmod 700 builder.sh
+#chmod 700 asmbuilder.sh
 
 echo "Usage
 bash builder.sh <FILENAME> <RUN> <DEBUG>
