@@ -32,14 +32,14 @@ Move the script to your assembly file's directory
 Change directory to where your assembly file is
 `cd PATH/TO/YOUR/ASSEMBLY/DIRECTORY`
 
-Set execution permissions for `builder.sh`
+Set execution permissions for `asmbuilder.sh`
 ```
-chmod 700 builder.sh
+chmod 700 asmbuilder.sh
 ```
 
 ## Usage
 ```console
-bash builder.sh <FILENAME> <RUN> <DEBUG>
+bash asmbuilder.sh <FILENAME> <RUN> <DEBUG>
 
 REQUIRED:
        <FILENAME>
@@ -52,7 +52,7 @@ OPTIONS:
 
 Run the script
 ```
-bash builder.sh example y n
+bash asmbuilder.sh example y n
 ```
 OR
 ```
